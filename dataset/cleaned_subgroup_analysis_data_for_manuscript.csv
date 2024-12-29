@@ -1,0 +1,32 @@
+Study,Control Mean,Control SD,Sample Size Control,Intervention Mean,Intervention SD,Sample Size Intervention,SMD,SE,Age Category,Intervention Category,Adherence Level,Duration Category,BMI Category
+"Ash et al., 2003",7.9,2,50,6.7,1.5,39,0.67,0.22,40-60 years,TBF,Low,Short,Obesity Class I (Moderate)
+"Carter et al., 2016",7.2,1.3,63,6.7,0.9,51,0.44,0.19,> 60 years,TBF,High,Short,Obesity Class II (Severe)
+"Carter et al., 2018",7.3,1.3,137,7.1,1.2,97,0.16,0.13,> 60 years,TBF,High,Short,Normal weight
+"Carter et al., 2019",7.3,1.3,137,7.1,1.1,84,0.16,0.14,> 60 years,TBF,Medium,Long,Obesity Class II (Severe)
+"Che et al., 2021",8.68,1.21,120,7.14,0.89,104,1.43,0.15,40-60 years,TBF,High,Short,Overweight
+"Cienfuegos et al., 2020",5.9,0.2,58,5.7,0.1,49,1.23,0.21,40-60 years,TBF,High,Short,Obesity Class III (Extreme)
+"Corley et al., 2018",8.2,1.3,41,7.5,1.5,37,0.5,0.23,40-60 years,TBF,Low,Short,Obesity Class II (Severe)
+"Goday et al., 2016",6.9,1.1,45,6,0.7,45,0.98,0.22,40-60 years,CCR,High,Medium,Obesity Class I (Moderate)
+"Govers et al., 2019",5.34,1.47,283,3.74,1.47,186,1.09,0.1,> 60 years,CCR,High,Long,Obesity Class I (Moderate)
+"Guo et al., 2024",7.9,0.6,405,7.3,1.1,405,0.68,0.07,40-60 years,TBF,High,Medium,Overweight
+"Harvie et al., 2013",4.9,0.31,37,4.8,0.31,37,0.32,0.23,40-60 years,TBF,High,Short,Obesity Class I (Moderate)
+"Hussain et al., 2012",8.2,0.3,102,7.8,0.1,102,1.79,0.17,< 40 years,CDF,High,Medium,Obesity Class II (Severe)
+"Hutchison et al., 2019",4.9,0.1,88,4.7,0.1,88,2,0.18,40-60 years,TBF,High,Short,Obesity Class I (Moderate)
+"Kahleova et al., 2014",7.2,3.3,54,6.95,0.17,54,0.11,0.19,40-60 years,TBF,High,Short,Obesity Class II (Severe)
+"Kunduraci et al., 2020",6.56,0.31,32,6.24,0.26,32,1.12,0.27,40-60 years,TBF,High,Short,Overweight
+"Li et al., 2017",7.6,0.7,46,7.4,1.2,46,0.2,0.21,> 60 years,CDF,High,Medium,Overweight
+"McDiarmid et al., 2022",8.3,1.9,79,7.9,1.9,57,0.21,0.17,NA,CDF,High,Very Long,NA
+"Moriconi  et al., 2021",6.6,0.84,30,5.99,0.54,30,0.86,0.27,> 60 years,CCR,High,Long,Overweight
+"Obermayer et al., 2022",8.2,0.6,23,7.7,0.6,23,0.83,0.31,NA,TBF,High,Short,NA
+"Obermayer et al., 2023",8.3,1.1,46,7.5,1.1,46,0.73,0.22,> 60 years,TBF,High,Short,Obesity Class I (Moderate)
+"Parvaresh et al., 2019",102,9.17,38,96,9.13,38,0.66,0.24,40-60 years,TBF,High,Short,Obesity Class I (Moderate)
+"Redmon et al., 2003",8.1,0.2,59,7.5,0.3,54,2.37,0.25,40-60 years,CCR,High,Long,Obesity Class II (Severe)
+"Saslow et al., 2017",7.1,0.4,25,6.7,0.8,20,0.66,0.31,40-60 years,CCR,High,Long,Overweight
+"Tang et al., 2020",7.93,0.52,50,7.5,0.5,50,0.84,0.21,40-60 years,CCR,High,Medium,Obesity Class I (Moderate)
+"Teong et al., 2023",5.8,0.4,85,5.71,0.4,69,0.23,0.16,40-60 years,TBF,High,Medium,Obesity Class I (Moderate)
+"Umphonsathien et al., 2022",7.7,0.3,14,6.4,0.3,14,4.33,0.69,40-60 years,CCR,Medium,Medium,Obesity Class I (Moderate)
+"Westman et al., 2008",8.3,1.9,29,7.8,2.1,29,0.25,0.26,40-60 years,CCR,High,Medium,Obesity Class II (Severe)
+"Williams et al., 1998",8.4,1.9,54,8.14,1.7,54,0.14,0.19,40-60 years,CCR,High,Medium,Obesity Class II (Severe)
+"Wing et al., 1991",10.4,2.2,36,7.3,1,33,1.79,0.29,40-60 years,CDF,High,Medium,Overweight
+"Wing et al., 1994",10.5,2,48,9.2,2,37,0.65,0.22,40-60 years,CCR,High,Very Long,Obesity Class II (Severe)
+"Yang et al., 2023",7.63,1.8,36,6.33,0.87,36,0.92,0.25,40-60 years,CCR,Low,Short,Normal weight
